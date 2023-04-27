@@ -1,0 +1,1 @@
+/home/swl/os/crate_module/syscall/target/debug/libsyscall.rlib: /home/swl/os/crate_module/syscall/build.rs /home/swl/os/crate_module/syscall/src/io.rs /home/swl/os/crate_module/syscall/src/lib.rs /home/swl/os/crate_module/syscall/src/syscall.h.in /home/swl/os/crate_module/syscall/src/syscalls.rs /home/swl/os/crate_module/syscall/src/time.rs

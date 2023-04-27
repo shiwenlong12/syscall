@@ -1,0 +1,1 @@
+{"rustc":13646863235972240414,"features":"","target":0,"profile":0,"path":0,"deps":[[18253905462543936819,"build_script_build",false,18417174549832621395]],"local":[{"RerunIfChanged":{"output":"debug/build/syscall-3e759dc4bd202426/output","paths":["build.rs","src/syscall.h.in"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
